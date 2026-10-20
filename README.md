@@ -5,4 +5,5 @@ this tool is Linux exclusive!**
 
 # HOW-TO USE 
 In order to use it, download the release, and place it in ~/.local/bin/ as you usually would, and make it executable.
-After that, use the terminal to navigate to the folder containing all of your Rust projects, and then run it! And it will do all the rest! 
+After that, use the terminal to navigate to the folder containing all of your Rust projects, and then type "cargo-cleanup" 
+in the CLI. This will automatically remove all the garbage that these Rust projects generate while working on your projects! 
